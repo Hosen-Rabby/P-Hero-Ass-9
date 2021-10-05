@@ -1,0 +1,11 @@
+.about{
+    height: 100vh;
+}
+
+.about h2{
+    padding: 20px;
+}
+
+.about_details{
+    padding-top: 50px;
+}
